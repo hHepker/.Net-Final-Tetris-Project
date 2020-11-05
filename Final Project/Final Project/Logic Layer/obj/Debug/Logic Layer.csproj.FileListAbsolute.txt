@@ -1,0 +1,20 @@
+D:\.Net class\Final Project\Final Project\Logic Layer\bin\Debug\Logic Layer.dll
+D:\.Net class\Final Project\Final Project\Logic Layer\bin\Debug\Logic Layer.pdb
+D:\.Net class\Final Project\Final Project\Logic Layer\bin\Debug\Data Objects Layer.dll
+D:\.Net class\Final Project\Final Project\Logic Layer\bin\Debug\DataAccess Layer.dll
+D:\.Net class\Final Project\Final Project\Logic Layer\bin\Debug\Data Objects Layer.pdb
+D:\.Net class\Final Project\Final Project\Logic Layer\bin\Debug\DataAccess Layer.pdb
+D:\.Net class\Final Project\Final Project\Logic Layer\obj\Debug\Logic Layer.csprojAssemblyReference.cache
+D:\.Net class\Final Project\Final Project\Logic Layer\obj\Debug\Logic Layer.csproj.CopyComplete
+D:\.Net class\Final Project\Final Project\Logic Layer\obj\Debug\Logic Layer.dll
+D:\.Net class\Final Project\Final Project\Logic Layer\obj\Debug\Logic Layer.pdb
+D:\.Net class\Final Project\Final Project\Final Project\Logic Layer\bin\Debug\Logic Layer.dll
+D:\.Net class\Final Project\Final Project\Final Project\Logic Layer\bin\Debug\Logic Layer.pdb
+D:\.Net class\Final Project\Final Project\Final Project\Logic Layer\bin\Debug\Data Objects Layer.dll
+D:\.Net class\Final Project\Final Project\Final Project\Logic Layer\bin\Debug\DataAccess Layer.dll
+D:\.Net class\Final Project\Final Project\Final Project\Logic Layer\bin\Debug\Data Objects Layer.pdb
+D:\.Net class\Final Project\Final Project\Final Project\Logic Layer\bin\Debug\DataAccess Layer.pdb
+D:\.Net class\Final Project\Final Project\Final Project\Logic Layer\obj\Debug\Logic Layer.csprojAssemblyReference.cache
+D:\.Net class\Final Project\Final Project\Final Project\Logic Layer\obj\Debug\Logic Layer.csproj.CopyComplete
+D:\.Net class\Final Project\Final Project\Final Project\Logic Layer\obj\Debug\Logic Layer.dll
+D:\.Net class\Final Project\Final Project\Final Project\Logic Layer\obj\Debug\Logic Layer.pdb

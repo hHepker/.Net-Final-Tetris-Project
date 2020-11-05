@@ -1,0 +1,16 @@
+D:\.Net class\Final Project\Final Project\DataAccess Layer\bin\Debug\DataAccess Layer.dll
+D:\.Net class\Final Project\Final Project\DataAccess Layer\bin\Debug\DataAccess Layer.pdb
+D:\.Net class\Final Project\Final Project\DataAccess Layer\bin\Debug\Data Objects Layer.dll
+D:\.Net class\Final Project\Final Project\DataAccess Layer\bin\Debug\Data Objects Layer.pdb
+D:\.Net class\Final Project\Final Project\DataAccess Layer\obj\Debug\DataAccess Layer.csprojAssemblyReference.cache
+D:\.Net class\Final Project\Final Project\DataAccess Layer\obj\Debug\DataAccess Layer.csproj.CopyComplete
+D:\.Net class\Final Project\Final Project\DataAccess Layer\obj\Debug\DataAccess Layer.dll
+D:\.Net class\Final Project\Final Project\DataAccess Layer\obj\Debug\DataAccess Layer.pdb
+D:\.Net class\Final Project\Final Project\Final Project\DataAccess Layer\bin\Debug\DataAccess Layer.dll
+D:\.Net class\Final Project\Final Project\Final Project\DataAccess Layer\bin\Debug\DataAccess Layer.pdb
+D:\.Net class\Final Project\Final Project\Final Project\DataAccess Layer\bin\Debug\Data Objects Layer.dll
+D:\.Net class\Final Project\Final Project\Final Project\DataAccess Layer\bin\Debug\Data Objects Layer.pdb
+D:\.Net class\Final Project\Final Project\Final Project\DataAccess Layer\obj\Debug\DataAccess Layer.csprojAssemblyReference.cache
+D:\.Net class\Final Project\Final Project\Final Project\DataAccess Layer\obj\Debug\DataAccess Layer.csproj.CopyComplete
+D:\.Net class\Final Project\Final Project\Final Project\DataAccess Layer\obj\Debug\DataAccess Layer.dll
+D:\.Net class\Final Project\Final Project\Final Project\DataAccess Layer\obj\Debug\DataAccess Layer.pdb
